@@ -1,7 +1,7 @@
 
 <div align="center">
 
-# Olá sou Stephanie  👋
+# Hi, I'm Stephanie  👋
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/stephaniesouza/)](https://www.linkedin.com/in/stephaniesouza/)
 
